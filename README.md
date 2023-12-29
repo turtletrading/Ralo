@@ -1,1 +1,1 @@
-# Redpill
+# Stock trader
